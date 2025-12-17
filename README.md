@@ -16,15 +16,9 @@ exercici 2 : Refactorització formulari T6
 
 cont. exercici 2: validació pels camps del formulari 
 
-    - casos "empty¨
-
+    - casos "empty
     - validació d'Strings: nom, email, telf., domini.
-    
     - utilizació de patrons
-
-
-
-
 
 ### Tecnologies
 - PHP
