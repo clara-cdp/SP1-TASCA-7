@@ -8,7 +8,13 @@ Un cas clàssic de situació que ens pot generar una excepció seria dividir un 
 
 Fes un programa que en el que es pugui produir aquesta situació i gestiona aquest error amb una sentència try-catch.
 
-Exercici 2
+#### Exercici 2
 Recorda l'exercici 1 del nivell 1 del tema 6(PHP Avançat).
 
 Programa en PHP diverses normes de validació pels camps del formulari. Com per exemple que el camp no sigui buit o que compleixi determinades circumstàncies simples com ser un nombre en cas de ser un camp numèric.
+
+#### Exercici 3
+
+En cas de tenir camps de text en el formulari dels exercicis anteriors, pot ser que calgui que aquestes sentències de text hagin de complir un patró concret(per exemple format email,número de telèfon...)
+
+Valida aquesta correcció mitjançant filtres o expressions regulars.
