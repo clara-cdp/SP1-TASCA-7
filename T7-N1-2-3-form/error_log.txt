@@ -1,0 +1,109 @@
+Error: [2] Undefined variable $userName - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:40
+Error: [8192] preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:40
+Error: [2] Undefined variable $userName - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:44
+Error: [2] Undefined variable $userName - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:34
+Error: [8192] preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:34
+Error: [2] Undefined variable $userName - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:38
+Error: [2] Undefined variable $userName - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:76
+Error: [8192] preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:76
+Error: [2] Undefined variable $userName - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:80
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:61
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:61
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:61
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:61
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:61
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:61
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:61
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:64
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:64
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:64
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46
+Error: [2] Undefined variable $name - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:45
+Error: [2] Undefined variable $err_emptyField - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-2-3-form\form2.php:46

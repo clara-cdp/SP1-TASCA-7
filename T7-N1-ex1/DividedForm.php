@@ -46,8 +46,6 @@ if (isset($_POST['result'])) {
     }
 }
 
-
-
 ?>
 
 
