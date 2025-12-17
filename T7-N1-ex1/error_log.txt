@@ -1,0 +1,4 @@
+Error: [2] Undefined variable $numberA - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-ex1\DividedForm.php:96
+Error: [2] Undefined variable $numberB - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-ex1\DividedForm.php:96
+Error: [2] Undefined variable $numberA - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-ex1\DividedForm.php:97
+Error: [2] Undefined variable $numberB - C:\Users\Clara\Desktop\IT ACADEMY\SPRINT-1\SP1-TASCA-7\T7-N1-ex1\DividedForm.php:97
