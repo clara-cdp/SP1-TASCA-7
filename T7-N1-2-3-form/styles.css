@@ -1,0 +1,82 @@
+body {
+    background-image: url("assets/starry-night.jpg");
+    background-size: cover;
+    padding: 30px;
+    font-family: monospace, 'Courier New', Courier, sans-serif;
+    font-size: 1.2em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(40, 134, 177);
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+.error {
+    color: rgb(95, 39, 39);
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    align-self: flex-start;
+}
+
+div {
+    height: warp-content;
+    width: 40vw;
+    max-width: 600px;
+    min-width: 300px;
+    padding: 20px 30px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+
+    background: rgba(249, 230, 235, 0.29);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(4.8px);
+    -webkit-backdrop-filter: blur(4.8px);
+    border: 1px solid rgba(249, 230, 235, 0.54);
+    box-shadow: 0 0 10px #705799, 0 0 20px #705799;
+
+    font-size: 1em min(2vw, 16px);
+    color: whitesmoke;
+}
+
+
+.text-field {
+    width: 100%;
+    height: wrap-content;
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 8px;
+    border: 1px solid rgb(7, 68, 79);
+    font-style: italic;
+    color: rgb(7, 68, 79);
+}
+
+.button {
+    background-color: rgba(6, 91, 116, 0.592);
+    font-size: 1.2em;
+    color: white;
+    font-weight: bolder;
+    text-transform: uppercase;
+
+    height: 50px;
+    width: 100%;
+    border: 1px solid rgb(7, 68, 79);
+    border-radius: 8px;
+
+    align-self: center;
+}
+
+.button:hover {
+    background-color: rgb(135, 4, 147);
+    cursor: grab;
+}
