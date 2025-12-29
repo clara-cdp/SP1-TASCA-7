@@ -1,6 +1,9 @@
 body {
     background-image: url("bg-imag.jpg");
-    background-size: cover;
+    background-size: 1500px;
+    background-position: center center;
+    background-attachment: fixed;
+
     /*background-color: white;*/
     margin: 3%;
     font-family: monospace;

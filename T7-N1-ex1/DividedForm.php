@@ -4,7 +4,7 @@ session_start();
 error_reporting(E_ALL);
 ini_set("display_errors", 0);
 
-//sends errors to error_log.txt - needs retunnig
+//sends errors to error_log.txt 
 function myFormErrors($errno, $errstr, $errfile, $errline)
 {
     $message = "Error: [$errno] $errstr - $errfile:$errline";
@@ -12,10 +12,18 @@ function myFormErrors($errno, $errstr, $errfile, $errline)
 }
 set_error_handler("myFormErrors");
 
+enum MessageError: string
+{
+    case Required = "* number required";
+    case Integer = "* not and integer";
+    case zero = "* You cannot divide by zero";
 
-$err_emptyBox = "";
-$err_invalid_Input = "";
-$err_divideByZero = "";
+    public function textMessage(): string
+    {
+        return $this->value;
+    }
+}
+$errors = ['A' => null, 'B' => null];
 
 $numberA = $_POST['numberA'] ?? '';
 $numberB = $_POST['numberA'] ?? '';
@@ -27,27 +35,25 @@ if (isset($_POST['result'])) {
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         if (empty($_POST['numberA'])) {
-            $err_emptyBox = "* number required";
+            $errors['A'] = MessageError::Required;
         } else {
             if (!preg_match("/^[0-9]*$/", $numberA)) {
-                $err_invalid_Input = "<br>* not an integer";
+                $errors['A'] = MessageError::Integer;
             }
         }
-        if (empty($_POST['numberB'])) {
-            $err_emptyBox = "<br>* number required";
+        if (empty($_POST['numberB']) && $_POST['numberB'] !== "0") {
+            $errors['B'] = MessageError::Integer;
         } else {
             if (!preg_match("/^[0-9]*$/", $numberB)) {
-                $err_invalid_Input = "<br>* not an integer";
-            }
+                $errors['B'] = MessageError::Integer;
+            } /*elseif ($numberB == 0){
+                $errors['B'] = MessageError::Zero;*/
         }
-
-        //testing line: 
-        //echo "<br>You've entered $numberA and $numberB<br>";
     }
 }
 
-?>
 
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -68,11 +74,11 @@ if (isset($_POST['result'])) {
 
             <label for="$numberA">Choose a number:</label><br>
             <input class="text" type="text" name="numberA" value="<?php echo htmlspecialchars($numberA); ?>"><br>
-            <span class="error"> <?php echo $err_emptyBox, $err_invalid_Input; ?></span><br><br>
+            <span class="error"> <?php echo $errors['A']?->value ?? ""; ?></span><br><br>
 
             <label for="$numberB">Choose a number to divide by:</label><br>
             <input class="text" type="text" name="numberB" value="<?php echo htmlspecialchars($numberB); ?>"><br>
-            <span class="error"> <?php echo $err_emptyBox, $err_invalid_Input, $err_divideByZero; ?></span><br><br>
+            <span class="error"> <?php echo $errors['B']?->value ?? ""; ?></span><br><br>
             <input class="button" type="submit" name="result" value="SEE RESULT">
 
 
@@ -92,15 +98,18 @@ if (isset($_POST['result'])) {
             return $result;
         }
 
-        if ($err_emptyBox === "" && $err_invalid_Input === "" && isset($_POST['result']) && $_SERVER["REQUEST_METHOD"] == "POST") {
+        if (
+            isset($_POST['result']) && $_SERVER["REQUEST_METHOD"] == "POST"
+        ) {
             try {
                 $divisionResult = divide($numberA, $numberB);
                 $divisionResult = number_format($divisionResult, 2);
                 echo "<br> RESULT: $divisionResult";
             } catch (DivisionByZeroError $e) {
-                echo "Error: " . $e->getMessage();
+                echo "<br>Error: " . $e->getMessage();
             }
         }
+
 
 
         ?>
