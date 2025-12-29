@@ -16,10 +16,7 @@ session_start();
 <body>
     <?php
     require 'action_page.php';
-    $userName = $_POST['userName'] ?? '';
-    $userEmail =  $_POST['userName'] ?? '';
-    $userPhone = $_POST['userName'] ?? '';
-    $userURL = $_POST['userURL'] ?? '';
+
     ?>
     <div class="questionare">
         <h1>Registration form</h1>
